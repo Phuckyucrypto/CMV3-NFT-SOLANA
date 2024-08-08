@@ -1,0 +1,23 @@
+{
+    "name": "Cypherpunks",
+    "symbol": "CPUNK",
+    "description": "A test collection called Cypherpunks.",
+    "image": "collection.png",
+    "seller_fee_basis_points": 500,
+    "external_url": "https://example.com",
+    "attributes": [],
+    "collection": {
+      "name": "Cypherpunks Collection",
+      "family": "Cypherpunks"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  

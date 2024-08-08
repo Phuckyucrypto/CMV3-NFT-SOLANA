@@ -1,0 +1,81 @@
+{
+    "number": 10,
+    "symbol": "CPUNK",
+    "sellerFeeBasisPoints": 500,
+    "isMutable": true,
+    "isSequential": false,
+    "ruleSet": null,
+    "creators": [
+        {
+            "address": "HVotpCLEv3TDz37jUHpmzR1HHjKrx6kUtw4nBKXmFzwk",
+            "share": 100
+        }
+    ],    
+    "uploadMethod": "bundlr",
+    "awsS3Bucket": null,
+    "retainAuthority": true,
+    "awsConfig": null,
+    "nftStorageAuthToken": null,
+    "shdwStorageAccount": null,
+    "pinataConfig": null,
+    "hiddenSettings": null,
+    "guards": {
+        "default": {
+        },
+        "groups":[
+            {
+                "label": "OG",
+                "guards": {
+                    "startDate": {
+                        "date": "2024-08-07T04:22:48Z" 
+                    },
+                    "endDate": {
+                        "date": "2024-08-08T04:20:48Z" 
+                    },
+                    "allowList": {
+                        "merkleRoot": "0bfef4dc4e72499567e00928b49671393533a7d246df7b81eed2f1291b08c56b"
+                    },
+                    "mintLimit": {
+                        "id": 1,
+                        "limit": 3
+                    }
+
+                }
+            },
+            {
+            "label": "WL",
+            "guards": {
+                "startDate": {
+                    "date": "2024-08-08T04:20:48Z" 
+                },
+                "endDate": {
+                    "date": "2024-08-09T04:20:48Z" 
+                },
+                "allowList": {
+                    "merkleRoot": "0bfef4dc4e72499567e00928b49671393533a7d246df7b81eed2f1291b08c56b"
+                },
+                "mintLimit": {
+                    "id": 2,
+                    "limit": 3
+                }
+            }
+            },
+            {
+            "label": "Public",
+            "guards": {
+                "startDate": {
+                "date": "2024-08-09T04:20:48Z"
+            },
+            "mintLimit": {
+                "id": 3,
+                "limit": 3
+            }
+
+                }
+            }
+        ]
+    }
+}
+     
+
+

@@ -1,0 +1,30 @@
+{
+    "name": "Cypher Punk #1",
+    "symbol": "CPUNK",
+    "description": "A unique cypher punk NFT.",
+    "image": "path_to_your_image_folder/cypher_punk_1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black Hoodie"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Sunglasses"
+      }
+    ],
+    "properties": {
+      "files": [
+          {
+              "uri": "path_to_your_image_folder/cypher_punk_10.png",
+              "type": "image/png"
+          }
+      ],
+      "category": "image"
+  }
+}
+   

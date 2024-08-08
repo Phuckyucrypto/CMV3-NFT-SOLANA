@@ -1,0 +1,98 @@
+{
+  "program": {
+    "candyMachine": "Gu2nAaaJXD3guNJL1P8J6zFjm6M4o7rAAFPav7bTjcCQ",
+    "candyGuard": "5T9ruspbcVyNzNUg7tNWxUqGGRi8RFWUeCqTH4itmzKJ",
+    "candyMachineCreator": "ABQ1eUZQswYXTySkZS43cUcnjJXYjBjTV7F8KZDG3E96",
+    "collectionMint": "YZ6UeebBwT9t323NbruMwpVdbiaENfQ5FRhzVN1yEsm"
+  },
+  "items": {
+    "-1": {
+      "name": "Cypherpunks",
+      "image_hash": "ed6c4299456f9fa54478106c5155161752c02c932279e5b22d5d997e96281b28",
+      "image_link": "https://arweave.net/Rp2cPK8PPvswU0LVpnRfstKcg0_pzqa7SrSxnj-Wx7A?ext=png",
+      "metadata_hash": "bb1ee57452587fcfb8640fb06eed05c109b51bfed74061c672f386243eb8c85f",
+      "metadata_link": "https://arweave.net/AcArIgTK4RhanI1Cu_4mTKhxRFbLpW7IDCcYJWXDXaI",
+      "onChain": true
+    },
+    "0": {
+      "name": "Cypher Punk #10",
+      "image_hash": "372fef6297ad8193b9fd0f126f028e09b833ffb16df9c8f7b58744a74201eede",
+      "image_link": "https://arweave.net/b-NKPD00dB8xOfemZ-e0F3D9n3zO9RWcuS7AEG_ZaGs?ext=png",
+      "metadata_hash": "1b2daf4849c3194825659e028e6f8063677ec0cdaa73219694e3c918d427d0f8",
+      "metadata_link": "https://arweave.net/LbfOZxluMitbZ77sF98tO3f9KCARIHW_nuJhrkY8p8E",
+      "onChain": true
+    },
+    "1": {
+      "name": "Cypher Punk #1",
+      "image_hash": "4d727cbc3b11db3dbedc648da8e96716ab63b182f26eca2a28a583c9d7ff3f92",
+      "image_link": "https://arweave.net/SRlfl_sF0nemUSNkEfsq4NnJdIOq3T4mC2bn040zrGI?ext=png",
+      "metadata_hash": "af3264288edba87185ffeeb5064f8026c748b72c8715e6ecbfac0db3a2bccb87",
+      "metadata_link": "https://arweave.net/CXP740fhbNNfG69OC5i5Q_rqKPaGViDFOVE5A0lGcc0",
+      "onChain": true
+    },
+    "2": {
+      "name": "Cypher Punk #2",
+      "image_hash": "7a48464e9c60b6186d3bb7b57af78dd214b7d451403d0c56c2e0f6f32b42df3f",
+      "image_link": "https://arweave.net/XjJNl4Sr9Q2J5YdTl-_JnG_62lB-roojVZRROo2Nl-4?ext=png",
+      "metadata_hash": "f119a81ab4c761d1d62689b4fab67a613eb0f6029ac76bf0e931d3d525cd1634",
+      "metadata_link": "https://arweave.net/kPx9CCZfFT_AWUB3VfLRVA_W0qcMh6zvPxqSrdj_mvg",
+      "onChain": true
+    },
+    "3": {
+      "name": "Cypher Punk #3",
+      "image_hash": "cf8b02a00684dfec54cdebf121462760c5a9ba50302773e3f75a3761e30eadd6",
+      "image_link": "https://arweave.net/y3rPVC_8KG9Gw_K21WFfFqwZCVe8DJC-P58qxH9TCik?ext=png",
+      "metadata_hash": "b9b5e44d45cb009198dc95da6a19d1953deb4490013b6534d2bd3cbeb1fb90b7",
+      "metadata_link": "https://arweave.net/zTI4fXUF90CAobdCaeYx27fjyBNQ4A-Mk1qOqqW5e7s",
+      "onChain": true
+    },
+    "4": {
+      "name": "Cypher Punk #4",
+      "image_hash": "c9a28804a01dbef90deb576ee8d545bbd5075ecb53dcac16adb0e2b3f284a6c8",
+      "image_link": "https://arweave.net/u7dxgIKMI-6n_8SHLs6YY9qC_JaKV94E25C3vT2TiGw?ext=png",
+      "metadata_hash": "155a0422eac50725b04ec2869db12e12eb311094ab5342b6cda59049e69a18d4",
+      "metadata_link": "https://arweave.net/aKghKAKkBRdTAMJ-reqiqP-PFSY_oDqejJ3UuJMQ6jU",
+      "onChain": true
+    },
+    "5": {
+      "name": "Cypher Punk #5",
+      "image_hash": "da0e53e0c27b9b232e141cf73479cd3b0f70ca76f8f77d20bab9c23d630172eb",
+      "image_link": "https://arweave.net/o93etTDMUapzTpp0bRFp0_YaBwVWDKW56sv0jOydC4M?ext=png",
+      "metadata_hash": "582924848461ba4c60a0c9a76cf6e525fa2eebb197b0e3e248b59637e4b74878",
+      "metadata_link": "https://arweave.net/5Zt3qU6gAlSxzhZj2qIUN1fi4B9KXgoWhsquVlqYTSM",
+      "onChain": true
+    },
+    "6": {
+      "name": "Cypher Punk #6",
+      "image_hash": "fe156b71577410f2fe6409f44ba0401fab17e8eb031cffdfed992157591a71a5",
+      "image_link": "https://arweave.net/1K7lNiesqWjJ8GUVGd3Cqd5J4tC2yhMZjCR2PYpSYzo?ext=png",
+      "metadata_hash": "a5242f87d2c597253836978387f1695fec70ff347acaf4186501ad54f582bc98",
+      "metadata_link": "https://arweave.net/EV3FrHPShLd-nmI1Yl287QiuidDLdfKMo-4zxqoJWI0",
+      "onChain": true
+    },
+    "7": {
+      "name": "Cypher Punk #7",
+      "image_hash": "54d1ebb07393137de2e6284197a56575d45b166f2c7996c76eef75afae8b360e",
+      "image_link": "https://arweave.net/k9Sc061WFsSyPXDmwH9egben4su7z_GKbA9f9ZM7qL0?ext=png",
+      "metadata_hash": "5cf43d3b911f3c6167b41574b9eebd1a71e0ee0568cfdda1a6128e1023f25b7c",
+      "metadata_link": "https://arweave.net/XHj0xhn-PFRg-nwtL7YMPDCstpweGHdVNCmT_PWNU54",
+      "onChain": true
+    },
+    "8": {
+      "name": "Cypher Punk #8",
+      "image_hash": "0f6c394f31a080549915ed373b69a201887d60bcbf12e95c86edaf3278d7d4e2",
+      "image_link": "https://arweave.net/8LpY_5THLPzyutlOgmT9X66s1QA3i0r6vhTT4_KSP4s?ext=png",
+      "metadata_hash": "7f1d2e4f1ff2da8056ca641596af8f0349d8f1b670f99ed4eade69e831594244",
+      "metadata_link": "https://arweave.net/7aCKNLA0L9AqjuaF9V4UMJ46gDZtb32gmWyZCqE6fbM",
+      "onChain": true
+    },
+    "9": {
+      "name": "Cypher Punk #9",
+      "image_hash": "9c52b750d65f355cb6cafc46202b884927702c3172650a443436c098c1dcebd6",
+      "image_link": "https://arweave.net/sOfTy8cFB5bSX-rLbFDEco7AIHQkLt9h72bCUcHexn8?ext=png",
+      "metadata_hash": "bfeaeafad5c635caffe0a319126365dcf479fbc817021054d8a863b6939396de",
+      "metadata_link": "https://arweave.net/JPtR57A3A9l0aYzGbPEbm6bn6LUNoILtBQ99SRYVlS4",
+      "onChain": true
+    }
+  }
+}
