@@ -78,7 +78,7 @@ Update the following fields:
 - `startDate`: Start dates for guards (UTC time)
 - `allowlist`: Update Merkle proof for each allowlist phase (OG and WL)
 
-Use the [Merkle Root Tool](https://tools.key-strokes.com/merkle-root) to generate Merkle proofs. Use One Wallet per line for correct format
+Use the [Merkle Root Tool](https://tools.key-strokes.com/merkle-root) to generate Merkle proofs. Use One Wallet per line for correct format.
 
 *Note: If you update the whitelist with new wallets or change order of wallets, you must update the Merkle proof.*
 
